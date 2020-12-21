@@ -9,3 +9,5 @@
 #### - [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576) 20.12.17
 
 #### - [크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061) 20.12.18
+
+#### - [두 개 뽑아서 더하기](https://programmers.co.kr/learn/courses/30/lessons/68644) 20.12.21
