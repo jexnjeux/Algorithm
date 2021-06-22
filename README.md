@@ -17,3 +17,17 @@
 #### - [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862) 20.12.31
 
 #### - [K번째](https://programmers.co.kr/learn/courses/30/lessons/42748) 21.01.11
+
+## 2. [백준](https://www.acmicpc.net/step)
+
+### 2. if 문
+
+#### - [두 수 비교하기](https://www.acmicpc.net/problem/1330) 21.06.22
+
+#### - [시험 성적](https://www.acmicpc.net/problem/9498) 21.06.22
+
+#### - [윤년](https://www.acmicpc.net/problem/2753) 21.06.22
+
+#### - [사분면 고르기](https://www.acmicpc.net/problem/14681) 21.06.22
+
+#### - [알람 시계](https://www.acmicpc.net/problem/2884) 21.06.22
