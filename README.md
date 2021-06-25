@@ -37,4 +37,7 @@
 #### - [A+B -3](https://www.acmicpc.net/problem/10950) 21.06.23
 
 #### - [합](https://www.acmicpc.net/problem/8393) 21.06.23
+
 #### - [빠른 A+B](https://www.acmicpc.net/problem/15552) 21.06.25
+
+#### - [N 찍기](https://www.acmicpc.net/problem/2741) 21.06.25
