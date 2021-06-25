@@ -41,3 +41,5 @@
 #### - [빠른 A+B](https://www.acmicpc.net/problem/15552) 21.06.25
 
 #### - [N 찍기](https://www.acmicpc.net/problem/2741) 21.06.25
+
+#### - [N 찍기](https://www.acmicpc.net/problem/2742) 21.06.25
