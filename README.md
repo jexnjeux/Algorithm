@@ -51,3 +51,5 @@
 #### - [별 찍기 -1](https://www.acmicpc.net/problem/2438) 21.07.01
 
 #### - [별 찍기 -2](https://www.acmicpc.net/problem/2439) 21.07.01
+
+#### - [X보다 작은 수](https://www.acmicpc.net/problem/10871) 21.07.01
