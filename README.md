@@ -49,3 +49,5 @@
 #### - [A+B -8](https://www.acmicpc.net/problem/11022) 21.06.25
 
 #### - [별 찍기 -1](https://www.acmicpc.net/problem/2438) 21.07.01
+
+#### - [별 찍기 -2](https://www.acmicpc.net/problem/2439) 21.07.01
